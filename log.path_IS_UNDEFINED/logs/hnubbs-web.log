@@ -22,7 +22,7 @@ ERROR in ch.qos.logback.core.joran.spi.Interpreter@10:84 - RuntimeException in A
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:296)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1301)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1290)
-	at com.HNUbbs.HNUbbsWebAplication.main(HNUbbsWebAplication.java:10)
+	at com.HNUbbs.HNUbbsWebApplication.main(HNUbbsWebAplication.java:10)
 Caused by: java.lang.IllegalStateException: Logback configuration error detected: 
 ERROR in org.springframework.boot.logging.logback.SpringPropertyAction - The "name" and "source" attributes of <springProperty> must be set
 ERROR in ch.qos.logback.core.joran.spi.Interpreter@9:78 - RuntimeException in Action for tag [springProperty] java.lang.NullPointerException: Cannot invoke "Object.hashCode()" because "key" is null
@@ -58,7 +58,7 @@ ERROR in ch.qos.logback.core.joran.spi.Interpreter@10:84 - RuntimeException in A
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:296)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1301)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1290)
-	at com.HNUbbs.HNUbbsWebAplication.main(HNUbbsWebAplication.java:10)
+	at com.HNUbbs.HNUbbsWebApplication.main(HNUbbsWebAplication.java:10)
 Caused by: java.lang.IllegalStateException: Logback configuration error detected: 
 ERROR in org.springframework.boot.logging.logback.SpringPropertyAction - The "name" and "source" attributes of <springProperty> must be set
 ERROR in ch.qos.logback.core.joran.spi.Interpreter@9:78 - RuntimeException in Action for tag [springProperty] java.lang.NullPointerException: Cannot invoke "Object.hashCode()" because "key" is null
@@ -94,7 +94,7 @@ ERROR in ch.qos.logback.core.joran.spi.Interpreter@10:84 - RuntimeException in A
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:296)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1301)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1290)
-	at com.HNUbbs.HNUbbsWebAplication.main(HNUbbsWebAplication.java:10)
+	at com.HNUbbs.HNUbbsWebApplication.main(HNUbbsWebAplication.java:10)
 Caused by: java.lang.IllegalStateException: Logback configuration error detected: 
 ERROR in org.springframework.boot.logging.logback.SpringPropertyAction - The "name" and "source" attributes of <springProperty> must be set
 ERROR in ch.qos.logback.core.joran.spi.Interpreter@9:78 - RuntimeException in Action for tag [springProperty] java.lang.NullPointerException: Cannot invoke "Object.hashCode()" because "key" is null

@@ -4,9 +4,9 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class HNUbbsAdminAplication {
+public class HNUbbsAdminApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(HNUbbsAdminAplication.class, args);
+        SpringApplication.run(HNUbbsAdminApplication.class, args);
     }
 }
